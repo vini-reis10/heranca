@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
     val caramelo = Cachorro(
         "viralata",
         4f,
@@ -8,4 +8,7 @@ fun main(){
     println(caramelo.emitirSom())
     println(caramelo.amamentar())
 
+
 }
+
+
